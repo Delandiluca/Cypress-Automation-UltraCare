@@ -1,2 +1,3 @@
-"# Cypress-Automation-UltraCare" 
-"# Cypress-Automation-UltraCare" 
+Automação de Fluxo de Login utilizando Cypress
+
+Aplicando PageObjects, Navigators, ...

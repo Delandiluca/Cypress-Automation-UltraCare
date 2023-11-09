@@ -7,7 +7,8 @@ module.exports ={
   },
   env: {
     baseUrl: 'https://ris.ultracare.com.br',
-    userEmail: 'admin@admin.com.br',
+    userEmail: 'delandilucasb@gmail.com',
     userPassword: 'Admin123@',
+    unit: 'NEO UNIDADE',
   },
 };
